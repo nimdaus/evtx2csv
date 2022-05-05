@@ -23,7 +23,7 @@ def main():
         'Hostname',
         'Destination',
         'Involved File',
-        'inheritance Flags',
+        'Inheritance Flags',
         'Parent Commandline',
         'Path',
         'Process Name',
